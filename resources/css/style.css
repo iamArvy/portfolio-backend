@@ -1,0 +1,104 @@
+.divider {
+    display: block;
+    margin: -5px 0 16px 0;
+    max-width: 150px;
+    border-bottom: 2px dashed #9FA2AB;
+}
+
+
+
+
+
+/* Filterable button */
+.filterable-button {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 400px;
+}
+
+.filterable-button .btn {
+    padding: 5px 16px;
+    margin: 6px;
+    font-size: 14px;
+    border-radius: 40px;
+    background-color: transparent;
+    color: #747474;
+    box-shadow: 0 0 0 2px #747474;
+    font-weight: bold;
+}
+
+.filterable-button .btn:hover {
+    background-color: #747474;
+    color: #fff;
+}
+
+.filterable-button .btn.selected,
+.filterable-button .btn:focus {
+    background-color: #747474;
+    color: #fff;
+    box-shadow: 0 0 0 2px #fff, 0 0 0 4px #747474;
+}
+
+/* Testimonial */
+
+
+/* Timeline */
+
+
+
+/* Page Style */
+
+
+
+
+/* About */
+
+
+/* Services */
+
+/* Blog */
+/* Blog list */
+
+
+/* Share */
+/* .sharer {
+    position: relative;
+    display: block;
+    margin: 0;padding: 0;
+    list-style: none;
+}
+
+.sharer .sharer-link {
+    display: inline-block;
+    margin: 3px;
+    width: 35px;height: 35px;
+    border-radius: 50%;
+    text-align: center;text-decoration: none;
+    line-height: 35px;
+    font-size: 12px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+.sharer .sharer-link:hover {
+    background-color: #fd7e14;
+    color: #fff;
+    border-color: transparent;
+} */
+
+
+/* Contact */
+
+
+
+/* Footer */
+
+
+/* Theme color style */
+/* Theme Blue */
